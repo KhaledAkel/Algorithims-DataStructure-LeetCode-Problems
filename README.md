@@ -3,7 +3,7 @@
 
 ##
 Day (1)
-
+Problem: Remove Duplicates from Sorted Array 
 LeetCode Problem Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 ##
