@@ -2,6 +2,6 @@
 
 
 ##
-Day -1-
+Day (1)
 
-LeetCode Problem Link: 
+LeetCode Problem Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
