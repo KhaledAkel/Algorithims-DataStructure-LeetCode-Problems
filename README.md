@@ -13,6 +13,8 @@ LeetCode Problem Link: https://leetcode.com/problems/remove-duplicates-from-sort
 ##
 Day (2)
 
+Problem: Remove Element
+
 LeetCode Problem Link: https://leetcode.com/problems/remove-element/description/
 
 ##
