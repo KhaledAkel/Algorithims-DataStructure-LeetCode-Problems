@@ -28,4 +28,13 @@ LeetCode Problem Link: https://leetcode.com/problems/search-insert-position/desc
 
 ##
 
+##
+Day (4)
+
+Problem: Plus One
+
+LeetCode Problem Link: https://leetcode.com/problems/plus-one/description/
+
+##
+
 
