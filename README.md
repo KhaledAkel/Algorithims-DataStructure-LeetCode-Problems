@@ -35,4 +35,12 @@ LeetCode Problem Link: https://leetcode.com/problems/plus-one/description/
 
 ##
 
+## 4
+
+Problem: Merge Sorted Array
+
+LeetCode Problem Link: https://leetcode.com/problems/merge-sorted-array/description/
+
+##
+
 
