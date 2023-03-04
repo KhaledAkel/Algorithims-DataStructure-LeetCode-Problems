@@ -3,7 +3,7 @@
 
 ##
 
-##1##
+## 1
 
 Problem: Remove Duplicates from Sorted Array 
 
