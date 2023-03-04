@@ -13,7 +13,7 @@ LeetCode Problem Link: https://leetcode.com/problems/remove-duplicates-from-sort
 
 ##
 
-%2%
+## 2
 
 Problem: Remove Element
 
