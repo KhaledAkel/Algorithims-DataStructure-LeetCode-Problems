@@ -43,4 +43,12 @@ LeetCode Problem Link: https://leetcode.com/problems/merge-sorted-array/descript
 
 ##
 
+## 6
+
+Problem: Single Number
+
+LeetCode Problem Link: https://leetcode.com/problems/single-number/description/
+
+##
+
 
