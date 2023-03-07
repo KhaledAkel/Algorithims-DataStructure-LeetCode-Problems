@@ -9,12 +9,6 @@ Problem: Remove Duplicates from Sorted Array
 
 LeetCode Problem Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
-* __CodeVersion1__: Using Two For loops / BigO(n^2) / Python.
-* __CodeVersion2__: Using Two For Loops / BigO(n^2) / C++.
-* __CodeVersion3__: Using HashMap / Big(n) / Python. 
-* __CodeVersion4__: Using Tow Pointers / Python.
-
-
 ##
 
 ## 2
@@ -57,4 +51,15 @@ LeetCode Problem Link: https://leetcode.com/problems/single-number/description/
 
 ##
 
+## 7
 
+Problem : Two sum
+
+Leetcode Problem Link: https://leetcode.com/problems/two-sum/description/
+
+* __CodeVersion1__: Using Two For loops / BigO(n^2) / Python.
+* __CodeVersion2__: Using Two For Loops / BigO(n^2) / C++.
+* __CodeVersion3__: Using HashMap / Big(n) / Python. 
+* __CodeVersion4__: Using Tow Pointers / Python.
+
+##
