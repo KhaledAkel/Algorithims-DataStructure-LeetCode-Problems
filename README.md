@@ -9,10 +9,11 @@ Problem: Remove Duplicates from Sorted Array
 
 LeetCode Problem Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
-* CodeVersion1: Using Two For loops / BigO(n^2) / Python.
-* CodeVersion2: Using HashMap / Big(n) / Python. 
-* CodeVersion3: Using Tow Pointers / Python.
-* CodeVersion4: Using Two For Loops / BigO(n^2) / C++.
+* __CodeVersion1__: Using Two For loops / BigO(n^2) / Python.
+* __CodeVersion2__: Using Two For Loops / BigO(n^2) / C++.
+* __CodeVersion3__: Using HashMap / Big(n) / Python. 
+* __CodeVersion4__: Using Tow Pointers / Python.
+
 
 ##
 
