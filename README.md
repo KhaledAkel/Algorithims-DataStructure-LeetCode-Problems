@@ -63,3 +63,13 @@ Leetcode Problem Link: https://leetcode.com/problems/two-sum/description/
 * __CodeVersion4__: Using Tow Pointers / Python.
 
 ##
+
+## 8
+
+Problem : Roman to Integer
+
+Leetcode Problem Link: https://leetcode.com/problems/roman-to-integer/description/
+
+* __CodeVersion1__: Using HashMap / BigO(n) / Python.
+
+##
