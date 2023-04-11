@@ -119,10 +119,10 @@ Leetcode Problem Link: https://leetcode.com/problems/roman-to-integer/descriptio
 
 ## 13
 
-Problem : Letter Combinations of a Phone Number
+Problem : Contains Duplicate
 
-Leetcode Problem Link: https://leetcode.com/problems/roman-to-integer/description/
+Leetcode Problem Link: https://leetcode.com/problems/contains-duplicate/description/
 
-* __CodeVersion1__: Using HashMap /Recursive Approach / Python.
+* __CodeVersion1__: 
 
 ##
