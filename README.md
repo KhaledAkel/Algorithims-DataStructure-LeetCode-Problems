@@ -109,11 +109,11 @@ Leetcode Problem Link: https://leetcode.com/problems/roman-to-integer/descriptio
 
 ## 12
 
-Problem : Letter Combinations of a Phone Number
+Problem : Valis Soduko
 
-Leetcode Problem Link: https://leetcode.com/problems/roman-to-integer/description/
+Leetcode Problem Link: https://leetcode.com/problems/valid-sudoku/description/
 
-* __CodeVersion1__: Using HashMap /Recursive Approach / Python.
+* __CodeVersion1__: 
 
 ##
 
