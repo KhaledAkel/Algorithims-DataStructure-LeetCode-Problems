@@ -86,9 +86,9 @@ Leetcode Problem Link: https://leetcode.com/problems/roman-to-integer/descriptio
 
 ## 10
 
-Problem : Two sum
+Problem : Longest Common Prefix
 
-Leetcode Problem Link: https://leetcode.com/problems/two-sum/description/
+Leetcode Problem Link:https://leetcode.com/problems/longest-common-prefix/description/
 
 * __CodeVersion1__: Using Two For loops / BigO(n^2) / Python.
 * __CodeVersion2__: Using Two For Loops / BigO(n^2) / C++.
@@ -101,7 +101,7 @@ Leetcode Problem Link: https://leetcode.com/problems/two-sum/description/
 
 Problem : Find First and Last Position of Element in Sorted Array
 
-Leetcode Problem Link: https://leetcode.com/problems/roman-to-integer/description/
+Leetcode Problem Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 
 * __CodeVersion1__: 
 
