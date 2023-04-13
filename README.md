@@ -127,9 +127,9 @@ Leetcode Problem Link: https://leetcode.com/problems/contains-duplicate/descript
 
 ##
 
-## 13
+## 14
 
-Problem : Intiger To Roman
+Problem : Integer To Roman
 
 Leetcode Problem Link: https://leetcode.com/problems/integer-to-roman/description/
 
