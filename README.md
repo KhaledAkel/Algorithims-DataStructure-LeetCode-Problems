@@ -158,3 +158,16 @@ Leetcode Problem Link:
 * __CodeVersion2__: TimeComplexity --> O(n) / Simple Code
 
 ##
+
+
+## 16
+
+Problem : Majority Element
+
+Leetcode Problem Link: https://leetcode.com/problems/majority-element/description/
+
+* __CodeVersion1__: 
+* __CodeVersion2__:
+* __CodeVersion3__:
+
+##
