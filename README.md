@@ -171,3 +171,26 @@ Leetcode Problem Link: https://leetcode.com/problems/majority-element/descriptio
 * __CodeVersion3__:
 
 ##
+## 18
+
+Problem : Majority Element
+
+Leetcode Problem Link: https://leetcode.com/problems/majority-element/description/
+
+* __CodeVersion1__: 
+* __CodeVersion2__:
+* __CodeVersion3__:
+
+##
+## 19
+
+Problem : Best Time to Buy and Sell Stock
+
+Leetcode Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+* __CodeVersion1__: 
+* __CodeVersion2__:
+* __CodeVersion3__:
+
+##
+
