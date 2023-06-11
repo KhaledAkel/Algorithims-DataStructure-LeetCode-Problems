@@ -204,4 +204,37 @@ Leetcode Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-s
 * __CodeVersion3__:
 
 ##
+## 21
+
+Problem : Jump game
+
+Leetcode Problem Link: https://leetcode.com/problems/jump-game/
+
+* __CodeVersion1__: 
+* __CodeVersion2__:
+* __CodeVersion3__:
+
+##
+## 22
+
+Problem : Jump game II
+
+Leetcode Problem Link: https://leetcode.com/problems/jump-game-ii/
+
+* __CodeVersion1__: 
+* __CodeVersion2__:
+* __CodeVersion3__:
+
+##
+## 23
+
+Problem : Length of Last Word
+
+Leetcode Problem Link: https://leetcode.com/problems/length-of-last-word/description/
+
+* __CodeVersion1__: 1 line code O(n)
+* __CodeVersion2__: Without Using Built in functions (except(len()) -- > O(n)
+* __CodeVersion3__:
+
+##
 
