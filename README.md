@@ -249,4 +249,61 @@ Leetcode Problem Link: https://leetcode.com/problems/find-the-index-of-the-first
 * __CodeVersion3__:
 
 ##
+## 25
+
+Problem : H-index
+
+Leetcode Problem Link: https://leetcode.com/problems/h-index/
+
+* __CodeVersion1__: 
+* __CodeVersion2__:
+* __CodeVersion3__:
+
+##
+## 26
+
+Problem : Product of array except self
+
+Leetcode Problem Link: https://leetcode.com/problems/product-of-array-except-self/
+
+* __CodeVersion1__: 
+* __CodeVersion2__:
+* __CodeVersion3__:
+
+##
+## 27
+
+Problem : Gas station
+
+Leetcode Problem Link: https://leetcode.com/problems/gas-station/
+
+* __CodeVersion1__: 
+* __CodeVersion2__:
+* __CodeVersion3__:
+
+##
+## 28
+
+Problem : Reverse words in a string
+
+Leetcode Problem Link: https://leetcode.com/problems/reverse-words-in-a-string/
+
+* __CodeVersion1__: 
+* __CodeVersion2__: 
+* __CodeVersion3__:
+
+##
+
+## 29
+
+Problem : ZigZag Conversion
+
+Leetcode Problem Link:https://leetcode.com/problems/zigzag-conversion/description/
+
+* __CodeVersion1__:
+* __CodeVersion2__: 
+* __CodeVersion3__:
+
+##
+
 
