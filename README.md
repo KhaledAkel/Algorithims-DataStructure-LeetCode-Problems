@@ -305,5 +305,28 @@ Leetcode Problem Link:https://leetcode.com/problems/zigzag-conversion/descriptio
 * __CodeVersion3__:
 
 ##
+## 30
+
+Problem : Candy
+
+Leetcode Problem Link: https://leetcode.com/problems/reverse-words-in-a-string/
+
+* __CodeVersion1__: 
+* __CodeVersion2__: 
+* __CodeVersion3__:
+
+##
+
+## 31
+
+Problem : trapping water
+
+Leetcode Problem Link:https://leetcode.com/problems/zigzag-conversion/description/
+
+* __CodeVersion1__:
+* __CodeVersion2__: 
+* __CodeVersion3__:
+
+##
 
 
