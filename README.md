@@ -52,7 +52,7 @@
   - **Problem 1**: ...
 </details>
 
-## Linked List
+## HashMap
 
 <details>
   <summary><strong><span style="color:#68D391;">Problems</span></strong></summary>
