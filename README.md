@@ -60,7 +60,7 @@
   - **Problem 1**: ...
 </details>
 
-## Tree
+## Stack
 
 <details>
   <summary><strong><span style="color:#ED64A6;">Problems</span></strong></summary>
@@ -68,7 +68,7 @@
   - **Problem 1**: ...
 </details>
 
-## Dynamic Programming
+## Linked List
 
 <details>
   <summary><strong><span style="color:#4FD1C5;">Problems</span></strong></summary>
