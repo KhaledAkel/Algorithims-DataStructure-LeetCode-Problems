@@ -44,7 +44,7 @@
   ...
 </details>
 
-## Two pointers
+## Matrix
 
 <details>
   <summary><strong><span style="color:#F6AD55;">Problems</span></strong></summary>
