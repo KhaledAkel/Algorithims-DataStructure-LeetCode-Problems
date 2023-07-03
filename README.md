@@ -4,8 +4,7 @@
   <img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo.png" alt="Algorithms-DataStructure-Leetcode-Problems Logo" width="200">
 </p>
 
-<span style="color: #0073b7;">Python</span>
-This project is implemented using <span style="color: #0073b7; font-weight: bold;">Python</span>.
+<span style="color: #0073b7; font-weight: bold;">Python</span>.
 
 <p align="center">
   This repository contains a collection of algorithms and data structures implemented in various programming languages to solve LeetCode problems.
