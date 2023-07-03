@@ -72,7 +72,8 @@ This repository contains a collection of algorithms and data structures implemen
 
 ---
 
-For more information about my projects and experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/your-linkedin-profile).
+<p align="center">For more information about my projects and experience, please visit my <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn profile</a>.</p>
+
 
 
 
