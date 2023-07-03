@@ -12,6 +12,9 @@
 ---
 
 ## Array (Lists/Strings)
+<p align="center">
+  **Linear - Two Pointers - Sliding Window**
+</p>
 
 <details>
   <summary><strong><span style="color:#6C63FF;">Problems</span></strong></summary>
