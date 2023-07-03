@@ -1,7 +1,7 @@
 # Algorithms-DataStructure-Leetcode-Problems
 
 <p align="center">
-  <img src="https://your-image-url.com" alt="Algorithms-DataStructure-Leetcode-Problems Logo" width="200">
+  <img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo.png" alt="Algorithms-DataStructure-Leetcode-Problems Logo" width="200">
 </p>
 
 This repository contains a collection of algorithms and data structures implemented in various programming languages to solve LeetCode problems.
