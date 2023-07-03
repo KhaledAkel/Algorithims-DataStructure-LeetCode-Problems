@@ -12,8 +12,8 @@
 ---
 
 ## Array (Lists/Strings)
-<p align="center">
-  <span style="font-weight: bold; color: #6C63FF;">Linear - Two Pointers - Sliding Window</span>
+<p>
+  <span style="font-weight: bold">Linear - Two Pointers - Sliding Window</span>
 </p>
 
 <details>
