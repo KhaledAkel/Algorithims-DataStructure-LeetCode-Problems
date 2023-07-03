@@ -11,7 +11,7 @@
 
 ---
 
-## Array (Lists/strings)
+## Array (Lists/Strings)
 
 <details>
   <summary><strong><span style="color:#6C63FF;">Problems</span></strong></summary>
