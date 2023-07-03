@@ -74,7 +74,7 @@
 
 ---
 
-<p align="center">For more information about my projects and experience, please visit my <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn profile</a>.</p>
+<p align="center">For more information about my projects and experience, please visit my <a href="https://www.linkedin.com/in/khaled-akel-98638a250">LinkedIn profile</a>.</p>
 
 
 
