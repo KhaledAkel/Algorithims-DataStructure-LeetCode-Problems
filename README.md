@@ -13,7 +13,7 @@
 
 ## Array (Lists/Strings)
 <p align="center">
-  **Linear - Two Pointers - Sliding Window**
+  <span style="font-weight: bold; color: #6C63FF;">Linear - Two Pointers - Sliding Window</span>
 </p>
 
 <details>
