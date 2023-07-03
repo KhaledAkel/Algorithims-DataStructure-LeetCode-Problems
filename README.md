@@ -6,20 +6,34 @@
 
 This repository contains a collection of algorithms and data structures implemented in various programming languages to solve LeetCode problems.
 
+---
+
 ## Array1
 
 <details>
-  <summary><strong>Problems</strong></summary>
+  <summary><strong><span style="color:#6C63FF;">Problems</span></strong></summary>
   
   - **Problem 1**: Two Sum (Easy)
     - Difficulty: :star:
     - [Link](https://leetcode.com/problems/two-sum/)
     - Files: `two_sum.py`, `two_sum.java`, `two_sum.cpp`
+      - `two_sum.py`:
+        - Summary: This code solves the Two Sum problem by using a dictionary/hashmap to store the complements of elements as we iterate through the array. It has a time complexity of O(n).
+      - `two_sum.java`:
+        - Summary: This code solves the Two Sum problem by using nested loops to compare every pair of elements in the array. It has a time complexity of O(n^2).
+      - `two_sum.cpp`:
+        - Summary: This code solves the Two Sum problem by sorting the array and using two pointers to find the pair that sums up to the target. It has a time complexity of O(n log n).
     
   - **Problem 2**: Container With Most Water (Medium)
     - Difficulty: :star::star:
     - [Link](https://leetcode.com/problems/container-with-most-water/)
     - Files: `container_with_most_water.py`, `container_with_most_water.java`, `container_with_most_water.cpp`
+      - `container_with_most_water.py`:
+        - Summary: This code solves the Container With Most Water problem using a two-pointer approach. It starts with the widest container and moves the pointers inward based on the heights. It has a time complexity of O(n).
+      - `container_with_most_water.java`:
+        - Summary: This code solves the Container With Most Water problem by comparing every pair of heights using nested loops. It has a time complexity of O(n^2).
+      - `container_with_most_water.cpp`:
+        - Summary: This code solves the Container With Most Water problem using a two-pointer approach. It starts with the widest container and moves the pointers inward based on the heights. It has a time complexity of O(n).
   
   ...
 </details>
@@ -27,7 +41,7 @@ This repository contains a collection of algorithms and data structures implemen
 ## Array2
 
 <details>
-  <summary><strong>Problems</strong></summary>
+  <summary><strong><span style="color:#F6AD55;">Problems</span></strong></summary>
   
   - **Problem 1**: ...
 </details>
@@ -35,7 +49,7 @@ This repository contains a collection of algorithms and data structures implemen
 ## Linked List
 
 <details>
-  <summary><strong>Problems</strong></summary>
+  <summary><strong><span style="color:#68D391;">Problems</span></strong></summary>
   
   - **Problem 1**: ...
 </details>
@@ -43,7 +57,7 @@ This repository contains a collection of algorithms and data structures implemen
 ## Tree
 
 <details>
-  <summary><strong>Problems</strong></summary>
+  <summary><strong><span style="color:#ED64A6;">Problems</span></strong></summary>
   
   - **Problem 1**: ...
 </details>
@@ -51,9 +65,14 @@ This repository contains a collection of algorithms and data structures implemen
 ## Dynamic Programming
 
 <details>
-  <summary><strong>Problems</strong></summary>
+  <summary><strong><span style="color:#4FD1C5;">Problems</span></strong></summary>
   
   - **Problem 1**: ...
 </details>
+
+---
+
+For more information about my projects and experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/your-linkedin-profile).
+
 
 
