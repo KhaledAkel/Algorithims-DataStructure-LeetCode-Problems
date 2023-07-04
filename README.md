@@ -19,9 +19,9 @@
 <details>
   <summary><strong><span style="color:#6C63FF;">Problems</span></strong></summary>
   
-  - **Problem 1**: Two Sum (Easy)
+  - **Problem 1**: Merge Sorted Array (Easy)
     - Difficulty: :star:
-    - [Link](https://leetcode.com/problems/two-sum/)
+    - [Link](https://leetcode.com/problems/merge-sorted-array/)
     - Files: `two_sum.py`, `two_sum.java`, `two_sum.cpp`
       - `two_sum.py`:
         - Summary: This code solves the Two Sum problem by using a dictionary/hashmap to store the complements of elements as we iterate through the array. It has a time complexity of O(n).
