@@ -22,8 +22,8 @@
   - **Problem 1**: Merge Sorted Array (Easy)
     - Difficulty: :star:
     - [Link](https://leetcode.com/problems/merge-sorted-array/)
-    - Files: `CodeVersion1.py`, `two_sum.java`, `two_sum.cpp`
-      - `two_sum.py`:
+    - Files: `CodeVersion1.ipynb`, `two_sum.java`, `two_sum.cpp`
+      - `CodeVersion1.ipynb`:
         - Summary: This code solves the Two Sum problem by using a dictionary/hashmap to store the complements of elements as we iterate through the array. It has a time complexity of O(n).
       - `two_sum.java`:
         - Summary: This code solves the Two Sum problem by using nested loops to compare every pair of elements in the array. It has a time complexity of O(n^2).
